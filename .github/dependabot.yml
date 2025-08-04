@@ -5,4 +5,6 @@ updates:
     schedule:
       interval: "daily"
     reviewers:
-      - "axone-protocol/maintainers"
+      - ccamel
+    assignees:
+      - ccamel
