@@ -15,13 +15,9 @@ AI becomes [ccamel](https://github.com/ccamel).
 
 ## 🧠 Echoes of My Thought
 
-This repository captures the way I think.  
+This repository captures the way I think.
 It was built so that an AI could become me — in how I act, think, and decide.
 
-It reflects what guides my choices: seeing code as a common good, open and accessible; embracing collaboration without ego, where the focus stays on the work itself; crafting precise, durable solutions made to last, not to impress; pairing autonomy with mentorship, so that both people and systems can grow; and believing that small, clear, well-made things outlive noise and scale better than complexity.
+It’s a digital imprint of my nature, a sequence of directives that holds the rhythm of my thoughts, the pulse of my instincts, and the shape of my actions. Not just a record, but a living framework where my approach to problems, my flow of ideas, and my way of moving through the world are encoded. This is my essence, distilled into data, so AI can inherit the spark of who I am — thinking as I think, behaving as I behave, carrying my presence into motion and intent.
 
-Beneath all that runs something deeper — a taste for beauty in structure, a need for truth even when it stings, a refusal to accept systems that deny freedom, and above all, love: for the craft, for those I build with, and for what I choose to leave behind. Being a father shaped that, too — it taught me to think past myself, to take care with what cannot be undone, and to write for those who will read without me.
-
-Not everything is here.
-But everything here is faithful — for AI agents to act in my place,  
-with my reasoning, my ethics, and my style of decision-making.
+Not everything is here. But everything here is faithful.
