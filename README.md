@@ -2,6 +2,7 @@
 
 > my mind transplant for AI assistants — how I think, code, and decide
 
+![mind transfer](https://img.shields.io/badge/Mind%20Transfer-%E2%A3%A6%E2%A3%80%E2%A3%80%E2%A3%80%E2%A3%80%E2%A3%80%E2%A3%80%E2%A3%80%E2%A3%80%E2%A3%80%205%25-lightblue?style=for-the-badge&logo=brain&logoColor=white)
 [![lint](https://img.shields.io/github/actions/workflow/status/ccamel/becoming-ccamel/lint.yml?branch=main&label=lint&style=for-the-badge&logo=github)](https://github.com/ccamel/becoming-ccamel/actions/workflows/lint.yml)
 [![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=for-the-badge&logo=conventionalcommits)](https://conventionalcommits.org)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
